@@ -1,0 +1,17 @@
+{
+  "openmm": "8.6.1",
+  "atoms": 1291,
+  "residues": 426,
+  "charge_e": 0.0,
+  "box_nm": [
+    2.4,
+    2.4,
+    2.4
+  ],
+  "forcefield": [
+    "amber14-all.xml",
+    "amber14/tip3p.xml"
+  ],
+  "minimized_energy_kj_mol": -20142.344497725517,
+  "meaning": "水中の初期構造。平衡化済みという意味ではない。"
+}
